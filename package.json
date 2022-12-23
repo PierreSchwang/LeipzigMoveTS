@@ -1,0 +1,10 @@
+{
+  "name": "leipzig-move",
+  "packageManager": "yarn@3.2.2",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "dependencies": {
+    "axios": "^1.2.1"
+  }
+}
